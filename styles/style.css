@@ -278,10 +278,6 @@ h1 {
   gap: 24px;
 }
 
-.about__text-start-item {
-  padding-right: 5px;
-}
-
 footer {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
